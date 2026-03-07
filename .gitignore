@@ -1,6 +1,7 @@
 # Ignore raw data files
 data/raw/*
-data/processed/*
+# Allow processed data (if small enough for GitHub, <100MB)
+!data/processed/*.csv
 *.csv
 *.xlsx
 *.zip

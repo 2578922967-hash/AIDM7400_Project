@@ -35,6 +35,7 @@
   报告文件夹：生成的图表和文案草稿。
 
 ## 📅 Project Roadmap & Status (项目进度表)
+### 说明：当你完成一项任务时，只需编辑 README.md，将 [ ] 改为 [x] 即可打勾。
 
 ### Phase 1: Data Foundation (基础数据建设)
 - [x] **Data Collection**: Download TMDB dataset (Status: Done)

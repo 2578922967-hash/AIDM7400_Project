@@ -34,6 +34,36 @@
 - `reports/`: Generated figures and draft texts.  
   报告文件夹：生成的图表和文案草稿。
 
+## 📅 Project Roadmap & Status (项目进度表)
+
+### Phase 1: Data Foundation (基础数据建设)
+- [x] **Data Collection**: Download TMDB dataset (Status: Done)
+- [x] **Data Cleaning**: Handle missing values, JSON parsing, deduplication (Status: Done)
+- [x] **Exploratory Data Analysis (EDA)**: General distribution, correlations (Status: Done)
+
+### Phase 2: In-depth Analysis (深度分析 - Tech Team)
+#### RQ1: Trend & Geopolitics (趋势演变)
+- [ ] **Genre Evolution**: Analyze genre popularity shifts over 20 years
+- [ ] **Production Power**: Visualize the rise of production countries
+- [ ] **Visualization Output**: Dynamic charts/maps for report
+
+#### RQ2: Content & Success Factors (内容密码)
+- [ ] **NLP Preprocessing**: Tokenize and clean movie overviews
+- [ ] **Keyword Extraction**: Identify high-revenue keywords
+- [ ] **Correlation Analysis**: Narrative elements vs. Box office/Ratings
+
+#### RQ3: Prediction Modeling (预测模型)
+- [ ] **Feature Engineering**: Process cast, director, and seasonality features
+- [ ] **Model Training**: Build ROI prediction models (Regression/Classification)
+- [ ] **Model Evaluation**: Assess accuracy and feature importance
+
+### Phase 3: Reporting & Presentation (报告与展示 - Story Team)
+- [ ] **Drafting**: Combine data insights into a cohesive narrative
+- [ ] **Visualization Polish**: Finalize charts for aesthetic appeal
+- [ ] **Video Script**: Write script based on analysis findings
+- [ ] **Final Video**: Record and edit the presentation
+- [ ] **Submission**: Final review and submit
+
 ### 完整项目结构
 - `data/raw/`：存放原始数据 (TMDB csv)。
 - `data/processed/`：存放清洗后的数据。

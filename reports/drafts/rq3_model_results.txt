@@ -1,0 +1,4 @@
+Model Evaluation (Random Forest):
+MSE: 21.1057
+MAE: 2.6620
+R2: -0.0312

@@ -44,19 +44,19 @@
 
 ### Phase 2: In-depth Analysis (深度分析 - Tech Team)
 #### RQ1: Trend & Geopolitics (趋势演变)
-- [ ] **Genre Evolution**: Analyze genre popularity shifts over 20 years
-- [ ] **Production Power**: Visualize the rise of production countries
-- [ ] **Visualization Output**: Dynamic charts/maps for report
+- [x] **Genre Evolution**: Analyze genre popularity shifts over 20 years
+- [x] **Production Power**: Visualize the rise of production countries
+- [x] **Visualization Output**: Dynamic charts/maps for report
 
 #### RQ2: Content & Success Factors (内容密码)
-- [ ] **NLP Preprocessing**: Tokenize and clean movie overviews
-- [ ] **Keyword Extraction**: Identify high-revenue keywords
-- [ ] **Correlation Analysis**: Narrative elements vs. Box office/Ratings
+- [x] **NLP Preprocessing**: Tokenize and clean movie overviews
+- [x] **Keyword Extraction**: Identify high-revenue keywords
+- [x] **Correlation Analysis**: Narrative elements vs. Box office/Ratings
 
 #### RQ3: Prediction Modeling (预测模型)
-- [ ] **Feature Engineering**: Process cast, director, and seasonality features
-- [ ] **Model Training**: Build ROI prediction models (Regression/Classification)
-- [ ] **Model Evaluation**: Assess accuracy and feature importance
+- [x] **Feature Engineering**: Process cast, director, and seasonality features
+- [x] **Model Training**: Build ROI prediction models (Regression/Classification)
+- [x] **Model Evaluation**: Assess accuracy and feature importance
 
 ### Phase 3: Reporting & Presentation (报告与展示 - Story Team)
 - [ ] **Drafting**: Combine data insights into a cohesive narrative

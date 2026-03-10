@@ -1,0 +1,5 @@
+                 sentiment_score   revenue  vote_average    budget
+sentiment_score         1.000000 -0.036212     -0.025078 -0.041189
+revenue                -0.036212  1.000000      0.135943  0.769179
+vote_average           -0.025078  0.135943      1.000000  0.125085
+budget                 -0.041189  0.769179      0.125085  1.000000

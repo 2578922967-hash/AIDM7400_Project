@@ -57,6 +57,7 @@
 - [x] **Feature Engineering**: Process cast, director, and seasonality features
 - [x] **Model Training**: Build ROI prediction models (Regression/Classification)
 - [x] **Model Evaluation**: Assess accuracy and feature importance
+- [x] **Revised Approach**: Binary Classification for High ROI Potential (Top 30%)
 
 ### Phase 3: Reporting & Presentation (报告与展示 - Story Team)
 - [ ] **Drafting**: Combine data insights into a cohesive narrative
